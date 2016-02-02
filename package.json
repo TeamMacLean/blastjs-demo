@@ -1,0 +1,13 @@
+{
+  "name": "blastjs-demo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "blastjs": "^1.5.3",
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4"
+  }
+}
